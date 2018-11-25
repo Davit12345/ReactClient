@@ -16,7 +16,7 @@ class ProjectTaskItem extends Component {
                         acceptanceCriteria
                     </p>
                     <a href="" className="btn btn-primary">
-                        View / Update
+                        View / Update/
                     </a>
 
                     <button className="btn btn-danger ml-4">
